@@ -1,1 +1,1 @@
-## 0x00. Advanced HTML
+This is Advanced html tags and guideline rules
